@@ -1,14 +1,14 @@
 {
-  "PAGE_ACCESS_TOKEN": "",
+  "PAGE_ACCESS_TOKEN": " EAAH6OIxgh0oBO6fJQAzXIb6nVtulLs1uRRcDYDphLhikKQooHkwJEyRPIgZCC9bft2yo031On7WYlCQkh6kw8EuslEhuFmdYhYPqwJsGfZAlbQU73YZAwgZBltv7AtPw3PRtRNzmpfO5d3Rr6TPR0EEnEpW9HBK7msaRFyS1C6W7lPgbq3w9wMfmHe462OPH5AZDZD",
   "VERIFY_TOKEN": "WEBHOOK",
   "ADMINS": [
-    ""
+    "61565022752745"
   ],
-  "BOTNAME": "BOTNAME",
-  "PREFIX": "/",
+  "BOTNAME": "KylesAi",
+  "PREFIX": "",
   "THEME_SETUP": {
     "THEME": "Fiery",
-    "ADMIN": "Your Name",
+    "ADMIN": "Kyle Bait-it",
     "TITLE": "PAGEBOT",
     "HTML": [
       "#CE2F16",
